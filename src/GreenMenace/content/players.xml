@@ -1,0 +1,4 @@
+<players nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/stage/" root="gfx/characters/costumes/">
+  <player hp="4" name="Shronkie" nameimage="playername_shronkie.png" portrait="playerportrait_shronkie.png" skin="character_shronkie.png" skinColor="4"/>
+  <player hp="4" shield="4" name="Shronkie" nameimage="playername_shronkie_b.png" portrait="playerportrait_shronkie_b.png" skin="character_shronkie_b.png" skinColor="4" bSkinParent="Shronkie"/>
+</players>
